@@ -57,5 +57,5 @@ public class TorpedoStore {
 
   public int getTorpedoCount() {
     return this.torpedoCount;
-  }
+  } //igy mar megjobb lett
 }
